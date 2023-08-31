@@ -1,0 +1,11 @@
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.frmVariables.resources
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.Cache
+C:\Programming\VB\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Programming\VB\Variables\Variables\bin\Debug\Variables.exe
+C:\Programming\VB\Variables\Variables\bin\Debug\Variables.pdb
+C:\Programming\VB\Variables\Variables\bin\Debug\Variables.xml
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.exe
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.xml
+C:\Programming\VB\Variables\Variables\obj\Debug\Variables.pdb

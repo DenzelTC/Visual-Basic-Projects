@@ -1,0 +1,11 @@
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Calculator.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

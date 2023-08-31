@@ -1,0 +1,12 @@
+D:\Programming\VB\Functions Addition\Functions Addition\bin\Debug\Functions Addition.exe.config
+D:\Programming\VB\Functions Addition\Functions Addition\bin\Debug\Functions Addition.exe
+D:\Programming\VB\Functions Addition\Functions Addition\bin\Debug\Functions Addition.pdb
+D:\Programming\VB\Functions Addition\Functions Addition\bin\Debug\Functions Addition.xml
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.vbprojAssemblyReference.cache
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions_Addition.frmAdd.resources
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions_Addition.Resources.resources
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.vbproj.GenerateResource.cache
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.vbproj.CoreCompileInputs.cache
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.exe
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.xml
+D:\Programming\VB\Functions Addition\Functions Addition\obj\Debug\Functions Addition.pdb

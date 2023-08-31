@@ -1,0 +1,22 @@
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe.config
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.pdb
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.xml
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.frmTrafficLight.resources
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.Resources.resources
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbproj.GenerateResource.Cache
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.exe
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.xml
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbprojResolveAssemblyReference.cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.frmTrafficLight.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.pdb

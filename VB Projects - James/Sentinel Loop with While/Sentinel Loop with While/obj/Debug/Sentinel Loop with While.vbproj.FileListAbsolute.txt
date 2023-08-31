@@ -1,0 +1,11 @@
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\bin\Debug\Sentinel Loop with While.exe.config
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\bin\Debug\Sentinel Loop with While.exe
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\bin\Debug\Sentinel Loop with While.pdb
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\bin\Debug\Sentinel Loop with While.xml
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel Loop with While.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel_Loop_with_While.frmSentinel.resources
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel_Loop_with_While.Resources.resources
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel Loop with While.vbproj.GenerateResource.Cache
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel Loop with While.exe
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel Loop with While.xml
+C:\Programming\VB\Sentinel Loop with While\Sentinel Loop with While\obj\Debug\Sentinel Loop with While.pdb

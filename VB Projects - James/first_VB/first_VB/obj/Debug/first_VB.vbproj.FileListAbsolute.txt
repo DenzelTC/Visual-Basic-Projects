@@ -1,0 +1,11 @@
+C:\Programming\VB\first_VB\first_VB\bin\Debug\first_VB.exe.config
+C:\Programming\VB\first_VB\first_VB\bin\Debug\first_VB.exe
+C:\Programming\VB\first_VB\first_VB\bin\Debug\first_VB.pdb
+C:\Programming\VB\first_VB\first_VB\bin\Debug\first_VB.xml
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.frmFirst.resources
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.Resources.resources
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.vbproj.GenerateResource.Cache
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.exe
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.xml
+C:\Programming\VB\first_VB\first_VB\obj\Debug\first_VB.pdb

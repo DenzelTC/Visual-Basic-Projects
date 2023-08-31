@@ -1,0 +1,46 @@
+C:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.exe.config
+C:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.exe
+C:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.pdb
+C:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.xml
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmMain.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.Resources.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.vbproj.GenerateResource.Cache
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.exe
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.xml
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.pdb
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmGrade.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmRegister.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmCalculator.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmLogin.resources
+C:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.vbprojResolveAssemblyReference.cache
+D:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.exe.config
+D:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.exe
+D:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.pdb
+D:\Programming\VB\Multiforms\Multiforms\bin\Debug\Multiforms.xml
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.vbprojAssemblyReference.cache
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmCalculator.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmGrade.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmLogin.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmMain.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.frmRegister.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.Resources.resources
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.vbproj.GenerateResource.cache
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.vbproj.CoreCompileInputs.cache
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.exe
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.xml
+D:\Programming\VB\Multiforms\Multiforms\obj\Debug\Multiforms.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\bin\Debug\Multiforms.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\bin\Debug\Multiforms.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\bin\Debug\Multiforms.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\bin\Debug\Multiforms.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.vbprojResolveAssemblyReference.cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.frmCalculator.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.frmGrade.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.frmLogin.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.frmMain.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.frmRegister.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\VB Projects - James\Multiforms\Multiforms\obj\Debug\Multiforms.pdb

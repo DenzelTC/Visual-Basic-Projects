@@ -1,0 +1,11 @@
+C:\Programming\VB\new\Enroll\Enroll\bin\Debug\Enroll.exe.config
+C:\Programming\VB\new\Enroll\Enroll\bin\Debug\Enroll.exe
+C:\Programming\VB\new\Enroll\Enroll\bin\Debug\Enroll.pdb
+C:\Programming\VB\new\Enroll\Enroll\bin\Debug\Enroll.xml
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.frm_Register.resources
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.Resources.resources
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.vbproj.GenerateResource.Cache
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.exe
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.xml
+C:\Programming\VB\new\Enroll\Enroll\obj\Debug\Enroll.pdb

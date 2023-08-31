@@ -1,0 +1,11 @@
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.exe.config
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.exe
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.pdb
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\bin\Debug\Arithmetic Operators.xml
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic_Operators.frmCalculator.resources
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic_Operators.Resources.resources
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.vbproj.GenerateResource.Cache
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.exe
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.xml
+C:\Programming\VB\Arithmetic Operators\Arithmetic Operators\obj\Debug\Arithmetic Operators.pdb

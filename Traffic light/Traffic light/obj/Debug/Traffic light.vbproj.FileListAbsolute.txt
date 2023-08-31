@@ -1,0 +1,11 @@
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic light.vbprojResolveAssemblyReference.cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic_light.Form1.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic_light.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic light.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\bin\Debug\Traffic light.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\bin\Debug\Traffic light.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\bin\Debug\Traffic light.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\bin\Debug\Traffic light.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic light.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic light.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Traffic light\Traffic light\obj\Debug\Traffic light.pdb

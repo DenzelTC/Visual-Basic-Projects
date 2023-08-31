@@ -1,0 +1,11 @@
+C:\Programming\VB\Woek with Variables\Woek with Variables\bin\Debug\Woek with Variables.exe.config
+C:\Programming\VB\Woek with Variables\Woek with Variables\bin\Debug\Woek with Variables.exe
+C:\Programming\VB\Woek with Variables\Woek with Variables\bin\Debug\Woek with Variables.pdb
+C:\Programming\VB\Woek with Variables\Woek with Variables\bin\Debug\Woek with Variables.xml
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek with Variables.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek_with_Variables.frmVars.resources
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek_with_Variables.Resources.resources
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek with Variables.vbproj.GenerateResource.Cache
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek with Variables.exe
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek with Variables.xml
+C:\Programming\VB\Woek with Variables\Woek with Variables\obj\Debug\Woek with Variables.pdb

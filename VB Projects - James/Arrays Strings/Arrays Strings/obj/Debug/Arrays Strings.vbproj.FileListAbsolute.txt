@@ -1,0 +1,23 @@
+C:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.exe.config
+C:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.exe
+C:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.pdb
+C:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.xml
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays_Strings.frmArrays.resources
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays_Strings.Resources.resources
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.vbproj.GenerateResource.Cache
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.exe
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.xml
+C:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.pdb
+D:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.exe.config
+D:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.exe
+D:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.pdb
+D:\Programming\VB\Arrays Strings\Arrays Strings\bin\Debug\Arrays Strings.xml
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.vbprojAssemblyReference.cache
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays_Strings.frmArrays.resources
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays_Strings.Resources.resources
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.vbproj.GenerateResource.cache
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.vbproj.CoreCompileInputs.cache
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.exe
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.xml
+D:\Programming\VB\Arrays Strings\Arrays Strings\obj\Debug\Arrays Strings.pdb

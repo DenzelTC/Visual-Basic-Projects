@@ -1,0 +1,11 @@
+C:\Programming\VB\Identity Card\Identity Card\bin\Debug\Identity Card.exe.config
+C:\Programming\VB\Identity Card\Identity Card\bin\Debug\Identity Card.exe
+C:\Programming\VB\Identity Card\Identity Card\bin\Debug\Identity Card.pdb
+C:\Programming\VB\Identity Card\Identity Card\bin\Debug\Identity Card.xml
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity Card.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity_Card.Resources.resources
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity Card.vbproj.GenerateResource.Cache
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity Card.exe
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity Card.xml
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity Card.pdb
+C:\Programming\VB\Identity Card\Identity Card\obj\Debug\Identity_Card.frmIdenity.resources

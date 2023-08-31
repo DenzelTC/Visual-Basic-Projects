@@ -1,0 +1,12 @@
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\bin\Debug\Automated Traffic Lights.exe.config
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\bin\Debug\Automated Traffic Lights.exe
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\bin\Debug\Automated Traffic Lights.pdb
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\bin\Debug\Automated Traffic Lights.xml
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.vbprojAssemblyReference.cache
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated_Traffic_Lights.Resources.resources
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.vbproj.GenerateResource.cache
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.vbproj.CoreCompileInputs.cache
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.exe
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.xml
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated Traffic Lights.pdb
+D:\Programming\VB\Automated Traffic Lights\Automated Traffic Lights\obj\Debug\Automated_Traffic_Lights.frmAutomated.resources

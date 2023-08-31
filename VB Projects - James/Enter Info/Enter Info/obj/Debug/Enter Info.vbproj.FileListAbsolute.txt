@@ -1,0 +1,11 @@
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\bin\Debug\Enter Info.exe.config
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\bin\Debug\Enter Info.exe
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\bin\Debug\Enter Info.pdb
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\bin\Debug\Enter Info.xml
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter Info.vbprojResolveAssemblyReference.cache
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter_Info.Details.resources
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter_Info.Resources.resources
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter Info.vbproj.GenerateResource.Cache
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter Info.exe
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter Info.xml
+c:\users\jacques\documents\visual studio 2017\Projects\Enter Info\Enter Info\obj\Debug\Enter Info.pdb

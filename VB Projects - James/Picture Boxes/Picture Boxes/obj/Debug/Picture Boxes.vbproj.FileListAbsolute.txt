@@ -1,0 +1,11 @@
+C:\Programming\VB\Picture Boxes\Picture Boxes\bin\Debug\Picture Boxes.exe.config
+C:\Programming\VB\Picture Boxes\Picture Boxes\bin\Debug\Picture Boxes.exe
+C:\Programming\VB\Picture Boxes\Picture Boxes\bin\Debug\Picture Boxes.pdb
+C:\Programming\VB\Picture Boxes\Picture Boxes\bin\Debug\Picture Boxes.xml
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture Boxes.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture_Boxes.frmPicture.resources
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture_Boxes.Resources.resources
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture Boxes.vbproj.GenerateResource.Cache
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture Boxes.exe
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture Boxes.xml
+C:\Programming\VB\Picture Boxes\Picture Boxes\obj\Debug\Picture Boxes.pdb

@@ -1,0 +1,11 @@
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\bin\Debug\Factorial with For Loop.exe.config
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\bin\Debug\Factorial with For Loop.exe
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\bin\Debug\Factorial with For Loop.pdb
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\bin\Debug\Factorial with For Loop.xml
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial with For Loop.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial_with_For_Loop.frmFactorial.resources
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial_with_For_Loop.Resources.resources
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial with For Loop.vbproj.GenerateResource.Cache
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial with For Loop.exe
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial with For Loop.xml
+C:\Programming\VB\Factorial with For Loop\Factorial with For Loop\obj\Debug\Factorial with For Loop.pdb

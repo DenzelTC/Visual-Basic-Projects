@@ -1,0 +1,11 @@
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\bin\Debug\Panels and  radio buttons.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\bin\Debug\Panels and  radio buttons.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\bin\Debug\Panels and  radio buttons.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\bin\Debug\Panels and  radio buttons.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels and  radio buttons.vbprojResolveAssemblyReference.cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels_and__radio_buttons.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels_and__radio_buttons.Form1.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels and  radio buttons.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels and  radio buttons.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels and  radio buttons.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\Panels and  radio buttons\Panels and  radio buttons\obj\Debug\Panels and  radio buttons.pdb

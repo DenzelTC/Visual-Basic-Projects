@@ -1,0 +1,10 @@
+C:\Programming\VB\Conrols TV\Conrols TV\bin\Debug\Conrols TV.exe.config
+C:\Programming\VB\Conrols TV\Conrols TV\bin\Debug\Conrols TV.exe
+C:\Programming\VB\Conrols TV\Conrols TV\bin\Debug\Conrols TV.pdb
+C:\Programming\VB\Conrols TV\Conrols TV\bin\Debug\Conrols TV.xml
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols_TV.frmControlsTV.resources
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols_TV.Resources.resources
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols TV.vbproj.GenerateResource.Cache
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols TV.exe
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols TV.xml
+C:\Programming\VB\Conrols TV\Conrols TV\obj\Debug\Conrols TV.pdb

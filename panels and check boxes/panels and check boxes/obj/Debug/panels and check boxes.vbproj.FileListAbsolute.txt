@@ -1,0 +1,14 @@
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\bin\Debug\panels and check boxes.exe.config
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\bin\Debug\panels and check boxes.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\bin\Debug\panels and check boxes.pdb
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\bin\Debug\panels and check boxes.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels_and_check_boxes.Form1.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels_and_check_boxes.Resources.resources
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.vbproj.GenerateResource.Cache
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.exe
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.xml
+C:\Users\DENZEL TC\Documents\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.pdb
+E:\Program files\prog\V.B Net\panels and check boxes\panels and check boxes\bin\Debug\panels and check boxes.exe.config
+E:\Program files\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.exe
+E:\Program files\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.xml
+E:\Program files\prog\V.B Net\panels and check boxes\panels and check boxes\obj\Debug\panels and check boxes.pdb

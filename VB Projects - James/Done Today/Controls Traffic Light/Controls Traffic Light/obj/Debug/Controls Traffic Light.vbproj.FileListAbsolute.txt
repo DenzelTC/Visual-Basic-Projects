@@ -1,0 +1,23 @@
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe.config
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.pdb
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.xml
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.frmTrafficLight.resources
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.Resources.resources
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbproj.GenerateResource.Cache
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.exe
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.xml
+C:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.pdb
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe.config
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.exe
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.pdb
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\bin\Debug\Controls Traffic Light.xml
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbprojAssemblyReference.cache
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.frmTrafficLight.resources
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls_Traffic_Light.Resources.resources
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbproj.GenerateResource.cache
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.vbproj.CoreCompileInputs.cache
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.exe
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.xml
+D:\Programming\VB\Controls Traffic Light\Controls Traffic Light\obj\Debug\Controls Traffic Light.pdb

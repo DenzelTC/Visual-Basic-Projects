@@ -1,0 +1,11 @@
+C:\Programming\VB\Student Registry\Student Registry\bin\Debug\Student Registry.exe.config
+C:\Programming\VB\Student Registry\Student Registry\bin\Debug\Student Registry.exe
+C:\Programming\VB\Student Registry\Student Registry\bin\Debug\Student Registry.pdb
+C:\Programming\VB\Student Registry\Student Registry\bin\Debug\Student Registry.xml
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student Registry.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student_Registry.frmRegister.resources
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student_Registry.Resources.resources
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student Registry.vbproj.GenerateResource.Cache
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student Registry.exe
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student Registry.xml
+C:\Programming\VB\Student Registry\Student Registry\obj\Debug\Student Registry.pdb

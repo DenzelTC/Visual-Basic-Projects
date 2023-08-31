@@ -1,0 +1,11 @@
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\bin\Debug\Sentinel Grades.exe.config
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\bin\Debug\Sentinel Grades.exe
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\bin\Debug\Sentinel Grades.pdb
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\bin\Debug\Sentinel Grades.xml
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel Grades.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel_Grades.frmGrade.resources
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel_Grades.Resources.resources
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel Grades.vbproj.GenerateResource.Cache
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel Grades.exe
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel Grades.xml
+C:\Programming\VB\Sentinel Grades\Sentinel Grades\obj\Debug\Sentinel Grades.pdb

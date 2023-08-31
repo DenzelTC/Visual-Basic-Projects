@@ -1,0 +1,11 @@
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\bin\Debug\InputBox and Loops.exe.config
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\bin\Debug\InputBox and Loops.exe
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\bin\Debug\InputBox and Loops.pdb
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\bin\Debug\InputBox and Loops.xml
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox and Loops.vbprojResolveAssemblyReference.cache
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox_and_Loops.frmInputbox.resources
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox_and_Loops.Resources.resources
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox and Loops.vbproj.GenerateResource.Cache
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox and Loops.exe
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox and Loops.xml
+C:\Programming\VB\InputBox and Loops\InputBox and Loops\obj\Debug\InputBox and Loops.pdb

@@ -1,0 +1,11 @@
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\bin\Debug\Identity Search.exe.config
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\bin\Debug\Identity Search.exe
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\bin\Debug\Identity Search.pdb
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\bin\Debug\Identity Search.xml
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity Search.vbprojResolveAssemblyReference.cache
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity_Search.frmIdentity.resources
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity_Search.Resources.resources
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity Search.vbproj.GenerateResource.Cache
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity Search.exe
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity Search.xml
+c:\users\jacques\documents\visual studio 2017\Projects\Identity Search\Identity Search\obj\Debug\Identity Search.pdb
